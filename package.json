@@ -1,0 +1,18 @@
+{
+    "name": "week-one",
+    "version": "1.0.0",
+    "description": "Week 1 exercises",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "HTML",
+        "CSS"
+    ],
+    "author": "Marcos Bonet",
+    "license": "ISC",
+    "prettier": {
+        "singleQuote": true
+    }
+}
